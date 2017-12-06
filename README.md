@@ -1,3 +1,5 @@
+项目效果： https://wangwenyin.github.io/ele/.
+
 # 1. day01
 ## 1). 搭建项目
     vue-cli(vue脚手架)
